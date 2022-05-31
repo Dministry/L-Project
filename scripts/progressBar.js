@@ -1,0 +1,1 @@
+const progressBar = document.querySelectorAll('progreessBar')
